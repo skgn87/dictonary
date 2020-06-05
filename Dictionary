@@ -1,0 +1,5 @@
+d1={"Sonu":"Apple","Anjali":"Cricket","Ansh":"Hockey","Chandan":"Ludo"}
+
+d2=input("Please Enter You Key Here: ")
+
+print(d1[d2])
